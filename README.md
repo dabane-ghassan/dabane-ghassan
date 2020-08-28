@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ghassan</h1>
+<h1 align="center">Hello 👋, I'm Ghassan</h1>
 <h3 align="center">A M.Sc. student in Bioinformatics with a specialization in software developement and data analysis.</h3>
 
 - 🌱 I’m currently learning **bioinformatics, machine learning, and computational neuroscience**
 
 - 📫 How to reach me **dabane.ghassan@gmail.com**
 
-<h6> Languages and tools i use : </h6>
+<h4> Languages and tools i use : </h4>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="40" height="40"/>
@@ -17,13 +17,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS" width="40" height="40"/>
   <img src="https://github.com/spyder-ide/spyder/blob/master/spyder/images/spyder.svg" alt="spyder" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/>
-  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/>  
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dabane-ghassan&show_icons=true&theme=chartreuse-dark&hide=stars,issues&count_private=true" alt="dabane-ghassan" />
 </p>
 
+<h4 align="center"> Connect with me </h4>
 <p align="center">
 <a href="https://fb.com/ghassan.dabane.97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ghassan.dabane.97" height="30" width="30" /></a>
 <a href="https://instagram.com/ghassan_dabane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/ghassan_dabane" height="30" width="30" /></a>
