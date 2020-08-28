@@ -27,6 +27,7 @@
 
 <h4 align="center"> Connect with me </h4>
 <p align="center">
+ <a href="https://medium.com/@dabane.ghassan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dabane.ghassan" height="30" width="30" /></a>
 <a href="https://fb.com/ghassan.dabane.97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ghassan.dabane.97" height="30" width="30" /></a>
 <a href="https://instagram.com/ghassan_dabane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/ghassan_dabane" height="30" width="30" /></a>
 </p>
