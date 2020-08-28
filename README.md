@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dabane.ghassan@gmail.com**
 
-<h4> Languages and tools i use : </h4>
+<h3> Languages and tools i use : </h3>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="40" height="40"/>
