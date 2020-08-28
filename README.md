@@ -20,8 +20,10 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/>  
 </p>
 
+<h3> My Github Stats: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dabane-ghassan&show_icons=true&theme=chartreuse-dark&hide=stars,issues&count_private=true" alt="dabane-ghassan" />
 </p>
+
 
 <h4 align="center"> Connect with me </h4>
 <p align="center">
