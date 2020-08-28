@@ -1,4 +1,3 @@
-# dabane-ghassan.github.io
 <h1 align="center">Hi 👋, I'm Ghassan</h1>
 <h3 align="center">A M.Sc. student in Bioinformatics with a specialization in software developement and data analysis.</h3>
 
