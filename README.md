@@ -23,7 +23,7 @@
 </p>
 
 <h3> My Github Stats: </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dabane-ghassan&show_icons=true&theme=chartreuse-dark&hide=stars,issues&count_private=true" alt="dabane-ghassan" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dabane-ghassan&show_icons=true&theme=chartreuse-dark&hide=issues&count_private=true" alt="dabane-ghassan" />
 </p>
 
 
