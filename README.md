@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ghassan</h1>
 <h3 align="center">A M.Sc. student in Bioinformatics with a specialization in software developement and data analysis.</h3>
 
-- 🌱 I’m currently learning **bioinformatics, machine learning, and computational neuroscience**
+- 🌱 I’m currently learning **bioinformatics, machine learning, and computational neuroscience (and pretty much everything else)**
 
 - 📫 How to reach me **dabane.ghassan@gmail.com**
 
