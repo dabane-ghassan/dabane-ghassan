@@ -34,5 +34,7 @@
 <a href="https://instagram.com/dabane_ghassan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/dabane_ghassan" height="30" width="30" /></a>
 <a href="https://medium.com/@dabane.ghassan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"
 height="30" width="30" /></a>
+<a href="https://github.com/dabane-ghassan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" /></a>
+<a href="mailto:dabane.ghassan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" /></a>
 </p>
 
