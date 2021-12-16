@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ghassan</h1>
-<h3 align="center">A Computer Science Engineering student at Polytech Marseille, I'm also a Computer Vision Scientist Apprentice working for Veracyte, Inc.</h3>
+<h3 align="center">A Computer Science Engineering student at Polytech Marseille, I'm also a Computer Vision Scientist Apprentice working for Veracyte IO.</h3>
 
 - 🌱 I’m currently learning **_machine learning_, _computational neuroscience_ and _bioinformatics_ (and pretty much everything else)**
 
